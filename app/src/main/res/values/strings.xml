@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="next_activity">Next</string>
+    <string name="option_rock">Rock</string>
+    <string name="option_paper">Paper</string>
+    <string name="option_scissors">Scissors</string>
+    <string name="computer_label">Computer</string>
+    <string name="you_label">You</string>
+    <string name="result_label">Result</string>
+    <string name="player_choice">%s</string>
+    <string name="computer_outcome">%s</string>
+    <string name="result">%s</string>
+</resources>
